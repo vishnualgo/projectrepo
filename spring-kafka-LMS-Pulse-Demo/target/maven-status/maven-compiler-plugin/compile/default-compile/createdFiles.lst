@@ -1,8 +1,0 @@
-com\madadipouya\springkafkatest\kafka\consumer\UserKafkaConsumer.class
-com\madadipouya\springkafkatest\dto\PulseRequestModel.class
-com\madadipouya\springkafkatest\controller\UserController.class
-com\madadipouya\springkafkatest\kafka\producer\UserKafkaProducer.class
-com\madadipouya\springkafkatest\config\SwaggerConfig.class
-com\madadipouya\springkafkatest\controller\Redirect.class
-com\madadipouya\springkafkatest\kafka\consumer\CreateXMLFileJava.class
-com\madadipouya\springkafkatest\SpringKafkaTestApplication.class
